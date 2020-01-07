@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f128df0a-ebe9-49a8-827e-f86a27db5cde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VOuy9uSpHRXNdZftOL0hWAq3Xq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.task_30">
+    <configuration name="task_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot-tasks-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot-tasks-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_27.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot-tasks-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_30.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot-tasks-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robot-tasks-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_30" />
+        <item itemvalue="Python.task_27" />
+        <item itemvalue="Python.task_23" />
+        <item itemvalue="Python.task_32" />
+        <item itemvalue="Python.task_7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f128df0a-ebe9-49a8-827e-f86a27db5cde" name="Default Changelist" comment="" />
+      <created>1577136715151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577136715151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Notifications" timestamp="1577380550603">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1577380550603" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577136739684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1577136739684" />
+    <state width="1419" height="289" key="GridCell.Tab.0.bottom" timestamp="1578351090439">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="289" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577820457568" />
+    <state width="1419" height="289" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1578351090439" />
+    <state width="1419" height="289" key="GridCell.Tab.0.center" timestamp="1578351090438">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="289" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577820457567" />
+    <state width="1419" height="289" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1578351090438" />
+    <state width="1419" height="289" key="GridCell.Tab.0.left" timestamp="1578351090438">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="289" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577820457566" />
+    <state width="1419" height="289" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1578351090438" />
+    <state width="1419" height="289" key="GridCell.Tab.0.right" timestamp="1578351090438">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1419" height="289" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577820457567" />
+    <state width="1419" height="289" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1578351090438" />
+    <state width="709" height="302" key="GridCell.Tab.1.bottom" timestamp="1577385965812">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="709" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577380828060" />
+    <state width="709" height="302" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1577385965812" />
+    <state width="709" height="302" key="GridCell.Tab.1.center" timestamp="1577385965811">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="709" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577380828060" />
+    <state width="709" height="302" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1577385965811" />
+    <state width="709" height="302" key="GridCell.Tab.1.left" timestamp="1577385965811">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="709" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577380828059" />
+    <state width="709" height="302" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1577385965811" />
+    <state width="709" height="302" key="GridCell.Tab.1.right" timestamp="1577385965812">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="709" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577380828060" />
+    <state width="709" height="302" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1577385965812" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1577136752204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577136752204" />
+    <state x="397" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1577815416361">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="275" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1577815416361" />
+    <state x="397" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1577212451571" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1577816675478">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577816675478" />
+    <state x="385" y="198" width="670" height="605" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1577143264238" />
+  </component>
+</project>

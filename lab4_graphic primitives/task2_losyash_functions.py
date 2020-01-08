@@ -7,16 +7,15 @@ def eyes():
     eye1 = gr.Circle(gr.Point(110, 120), 20)
     eye1.setFill('white')
     eye1.setOutline('white')
+    eye1_center = gr.Circle(gr.Point(115, 125), 10)
+    eye1_center.setFill('black')
 
     eye2 = gr.Circle(gr.Point(200, 130), 20)
     eye2.setFill('white')
     eye2.setOutline('white')
-
-    eye1_center = gr.Circle(gr.Point(115, 125), 10)
-    eye1_center.setFill('black')
-
     eye2_center = gr.Circle(gr.Point(200, 135), 10)
     eye2_center.setFill('black')
+
     eye1.draw(window)
     eye2.draw(window)
     eye1_center.draw(window)

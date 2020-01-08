@@ -203,3 +203,5 @@ def test_invert_array():
         print('test2 - ok')
     else:
         print('test2 - fail')
+
+

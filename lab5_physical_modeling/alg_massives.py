@@ -103,12 +103,21 @@ def cycle_move_left(A, N):  # циклический сдвиг вправо
     A[N - 1] = tmp
 
 
-def eratosthenes_sieve(N):
+def eratosthenes_sieve(N):  # Решето Эратосфена. Поиск простых чисел.
     """
     Решения задачи поиска всех простых чисел в последовательном массиве до N.
     Пример:
-    Ввод: 15
-    Вывод: 3, 5, 7, 11, 13
+    Ввод:
+    7
+    Вывод:
+    0 - составное
+    1 - составное
+    2 - простое
+    3 - простое
+    4 - составное
+    5 - простое
+    6 - составное
+    7 - простое
     """
     A = [True] * N
     A[0] = A[1] = False
@@ -116,7 +125,6 @@ def eratosthenes_sieve(N):
         if A[k]:
             for m in range(2 * k, N, k):
                 A[m] = False
-    print(A)
     for k in range(N):
         print(k, '-', 'простое' if A[k] else 'составное')
 
@@ -221,6 +229,3 @@ def test_invert_array():
         print('test2 - ok')
     else:
         print('test2 - fail')
-
-
-eratosthenes_sieve(1000)

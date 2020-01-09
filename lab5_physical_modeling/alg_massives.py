@@ -103,6 +103,24 @@ def cycle_move_left(A, N):  # циклический сдвиг вправо
     A[N - 1] = tmp
 
 
+def eratosthenes_sieve(N):
+    """
+    Решения задачи поиска всех простых чисел в последовательном массиве до N.
+    Пример:
+    Ввод: 15
+    Вывод: 3, 5, 7, 11, 13
+    """
+    A = [True] * N
+    A[0] = A[1] = False
+    for k in range(2, N):
+        if A[k]:
+            for m in range(2 * k, N, k):
+                A[m] = False
+    print(A)
+    for k in range(N):
+        print(k, '-', 'простое' if A[k] else 'составное')
+
+
 def test_cycle_move_left():
     A1 = [0, 1, 2, 3, 4, 5]
     print('before:', A1)
@@ -205,3 +223,4 @@ def test_invert_array():
         print('test2 - fail')
 
 
+eratosthenes_sieve(1000)
